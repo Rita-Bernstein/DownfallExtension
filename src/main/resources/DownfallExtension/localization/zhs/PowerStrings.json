@@ -1,0 +1,22 @@
+{
+  "DownfallExtension:CrowbotRitualPower": {
+    "NAME": "重编程：邪教",
+    "DESCRIPTIONS": [
+      "当 #y乌鸦机器人 的生命不高于 #b50% 时，其回合结束时失去 #b3 点生命并获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "DownfallExtension:DamageMultiplier": {
+    "NAME": "伤害增幅",
+    "DESCRIPTIONS": [
+      "#y攻击牌 造成 #b",
+      " 倍伤害。"
+    ]
+  },
+  "DownfallExtension:CompressionMold": {
+    "NAME": "压模",
+    "DESCRIPTIONS": [
+      "升级被 #y发射 后的弹药。"
+    ]
+  }
+}

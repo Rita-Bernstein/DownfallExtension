@@ -1,0 +1,22 @@
+{
+  "DownfallExtension:CrowbotRitualPower": {
+    "NAME": "Reprogram:Ritual",
+    "DESCRIPTIONS": [
+      "When #yCrowBot is at or below #b50% HP,it lose #b3 HP and gain #b",
+      " #yStrength at the end of its turn."
+    ]
+  },
+  "DownfallExtension:DamageMultiplier": {
+    "NAME": "Damage Multiplier",
+    "DESCRIPTIONS": [
+      "#yAttacks deal #b",
+      " times damage."
+    ]
+  },
+  "DownfallExtension:CompressionMold": {
+    "NAME": "Compression Mold",
+    "DESCRIPTIONS": [
+      "#yFired Ammo is upgraded afterwards."
+    ]
+  }
+}

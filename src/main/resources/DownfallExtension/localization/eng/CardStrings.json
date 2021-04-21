@@ -1,0 +1,55 @@
+{
+  "DownfallExtension:Slug": {
+    "NAME": "Slug",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "DownfallExtension:Defend_Crowbot": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "DownfallExtension:Boom": {
+    "NAME": "Boom",
+    "DESCRIPTION": "downfall:Fire 1 Ammo for !M! times damage."
+  },
+  "DownfallExtension:Beam": {
+    "NAME": "Beam",
+    "DESCRIPTION": "Deal !D! damage. NL Gain [E]. NL Exhaust this card if played from your hand."
+  },
+  "DownfallExtension:Pellet": {
+    "NAME": "Pellet",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "DownfallExtension:Barrier": {
+    "NAME": "Barrier",
+    "DESCRIPTION": "If you have no Block, gain !B! Block."
+  },
+  "DownfallExtension:Ricochet": {
+    "NAME": "Ricochet",
+    "DESCRIPTION": "downfall:Fire 1 Ammo. Deal its effect to !M! random targets."
+  },
+  "DownfallExtension:HeavySlug": {
+    "NAME": "Heavy Slug",
+    "DESCRIPTION": "Deal !D! damage. NL Exhausts if downfall:Fired."
+  },
+  "DownfallExtension:Cannonball": {
+    "NAME": "Cannonball",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "DownfallExtension:FullMetalJacket": {
+    "NAME": "Full Metal Jacket",
+    "DESCRIPTION": "Deal !D! damage. NL If downfall:Fired, apply !M! Vulnerable."
+  },
+  "DownfallExtension:FanTheHammer": {
+    "NAME": "Fan The Hammer",
+    "DESCRIPTION": "Draw !M! cards. NL downfall:Fire Ammo cards drawn this way."
+  },
+  "DownfallExtension:CompressionMold": {
+    "NAME": "Compression Mold",
+    "DESCRIPTION": "downfall:Fired Ammo is upgraded afterwards.",
+    "UPGRADE_DESCRIPTION": "Innate. NL downfall:Fired Ammo is upgraded afterwards."
+  },
+  "DownfallExtension:Desperado": {
+    "NAME": "Desperado",
+    "DESCRIPTION": "If you no Ammo cards in your hand, deal !D! damage."
+  }
+}
