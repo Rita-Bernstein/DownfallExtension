@@ -1,4 +1,8 @@
 {
+  "DownfallExtension:Slug": {
+    "NAME": "弹头",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
   "DownfallExtension:Boom": {
     "NAME": "砰！",
     "DESCRIPTION": "将弹药 !M! 倍伤害 downfall:发射 。"
