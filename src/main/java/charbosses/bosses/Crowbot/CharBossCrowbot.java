@@ -19,6 +19,8 @@ import com.megacrit.cardcrawl.characters.AbstractPlayer.PlayerClass;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 import com.megacrit.cardcrawl.helpers.CardLibrary;
+import com.megacrit.cardcrawl.helpers.FontHelper;
+import com.megacrit.cardcrawl.helpers.ImageMaster;
 import com.megacrit.cardcrawl.powers.RitualPower;
 import com.megacrit.cardcrawl.ui.panels.energyorb.EnergyOrbBlue;
 import com.megacrit.cardcrawl.vfx.AwakenedEyeParticle;
@@ -41,6 +43,8 @@ public class CharBossCrowbot extends AbstractCharBoss {
         super(NAME, ID, 74, -4.0f, -16.0f, 220.0f, 290.0f, null, 0.0f, -20.0f, Enums.Crowbot);
         this.energyOrb = new EnergyOrbBlue();
         this.energy = new EnemyEnergyManager(3);
+        this.energyPanel.gainEnergyImg = ImageMaster.BLUE_ORB_FLASH_VFX;
+        this.energyPanel.energyNumFont = FontHelper.energyNumFontBlue;
         this.loadAnimation("DownfallExtension/images/charBoss/Crowbot/crowbot.atlas", "DownfallExtension/images/charBoss/Crowbot/crowbot.json", 1.0f);
         final AnimationState.TrackEntry e = this.state.setAnimation(0, "Idle", true);
         this.stateData.setMix("Hit", "Idle", 0.1f);

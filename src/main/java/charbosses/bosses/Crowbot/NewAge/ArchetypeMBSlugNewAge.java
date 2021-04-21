@@ -61,7 +61,8 @@ public class ArchetypeMBSlugNewAge extends ArchetypeBaseCrowbot {
                     c.cost = 0;
                     c.freeToPlayOnce = true;
                     c.modifyCostForCombat(-1);
-                    c.manualCustomDamageModifierMult = 2;
+                    c.damageMultIfPlayed = 2;
+
 
                     addToList(cardsList, c);
                     addToList(cardsList, new EnPellet(), extraUpgrades);
@@ -124,7 +125,7 @@ public class ArchetypeMBSlugNewAge extends ArchetypeBaseCrowbot {
                     c.cost = 0;
                     c.freeToPlayOnce = true;
                     c.modifyCostForCombat(-1);
-                    c.manualCustomDamageModifierMult = 2;
+                    c.damageMultIfPlayed = 2;
 
                     addToList(cardsList, c, ammoUpgraded);
                     addToList(cardsList, new EnBarrier());
