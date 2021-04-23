@@ -9,7 +9,7 @@
   },
   "DownfallExtension:Boom": {
     "NAME": "Boom",
-    "DESCRIPTION": "downfall:Fire 1 Ammo for !M! times damage."
+    "DESCRIPTION": "downfallextension:Fire 1 Ammo for !M! times damage."
   },
   "DownfallExtension:Beam": {
     "NAME": "Beam",
@@ -25,11 +25,11 @@
   },
   "DownfallExtension:Ricochet": {
     "NAME": "Ricochet",
-    "DESCRIPTION": "downfall:Fire 1 Ammo. Deal its effect to !M! random targets."
+    "DESCRIPTION": "downfallextension:Fire 1 Ammo. Deal its effect to !M! random targets."
   },
   "DownfallExtension:HeavySlug": {
     "NAME": "Heavy Slug",
-    "DESCRIPTION": "Deal !D! damage. NL Exhausts if downfall:Fired."
+    "DESCRIPTION": "Deal !D! damage. NL Exhausts if downfallextension:Fired."
   },
   "DownfallExtension:Cannonball": {
     "NAME": "Cannonball",
@@ -37,16 +37,16 @@
   },
   "DownfallExtension:FullMetalJacket": {
     "NAME": "Full Metal Jacket",
-    "DESCRIPTION": "Deal !D! damage. NL If downfall:Fired, apply !M! Vulnerable."
+    "DESCRIPTION": "Deal !D! damage. NL If downfallextension:Fired, apply !M! Vulnerable."
   },
   "DownfallExtension:FanTheHammer": {
     "NAME": "Fan The Hammer",
-    "DESCRIPTION": "Draw !M! cards. NL downfall:Fire Ammo cards drawn this way."
+    "DESCRIPTION": "Draw !M! cards. NL downfallextension:Fire Ammo cards drawn this way."
   },
   "DownfallExtension:CompressionMold": {
     "NAME": "Compression Mold",
     "DESCRIPTION": "downfall:Fired Ammo is upgraded afterwards.",
-    "UPGRADE_DESCRIPTION": "Innate. NL downfall:Fired Ammo is upgraded afterwards."
+    "UPGRADE_DESCRIPTION": "Innate. NL downfallextension:Fired Ammo is upgraded afterwards."
   },
   "DownfallExtension:Desperado": {
     "NAME": "Desperado",
