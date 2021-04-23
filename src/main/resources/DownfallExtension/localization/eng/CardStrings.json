@@ -45,7 +45,7 @@
   },
   "DownfallExtension:CompressionMold": {
     "NAME": "Compression Mold",
-    "DESCRIPTION": "downfall:Fired Ammo is upgraded afterwards.",
+    "DESCRIPTION": "downfallextension:Fired Ammo is upgraded afterwards.",
     "UPGRADE_DESCRIPTION": "Innate. NL downfallextension:Fired Ammo is upgraded afterwards."
   },
   "DownfallExtension:Desperado": {

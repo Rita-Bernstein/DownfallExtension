@@ -45,7 +45,7 @@
   },
   "DownfallExtension:CompressionMold": {
     "NAME": "压模",
-    "DESCRIPTION": "升级被 downfall:发射 后的弹药。",
+    "DESCRIPTION": "升级被 downfallextension:发射 后的弹药。",
     "UPGRADE_DESCRIPTION": "固有 。 NL 升级被 downfallextension:发射 后的弹药。"
   },
   "DownfallExtension:Desperado": {
